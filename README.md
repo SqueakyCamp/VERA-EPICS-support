@@ -1,0 +1,1 @@
+This repo contains the necessary support modules for EtherCAT to work with EPICS at VERA. EPICS, as well as EtherCAT are in other repos, or can be set up using our own setup scripts for Linux (created for Debian 12, not tested on other systems)
